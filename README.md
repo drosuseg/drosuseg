@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Cebu,_Philippines-ec4899?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🎓_Dean's_Lister-a855f7?style=for-the-badge&labelColor=1a1a2e" />
   <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/✉️_donrose0088@gmail.com-6366f1?style=for-the-badge&labelColor=1a1a2e" /></a>
 </p>
 
@@ -136,7 +135,6 @@
 <p align="center">
   <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
