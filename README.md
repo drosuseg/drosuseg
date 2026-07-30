@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Cebu,_Philippines-ec4899?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🎓_Dean's_Lister-a855f7?style=for-the-badge&labelColor=1a1a2e" />
   <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/✉️_donrose0088@gmail.com-6366f1?style=for-the-badge&labelColor=1a1a2e" /></a>
 </p>
 
@@ -68,9 +69,11 @@
 
 ### 📊 stats
 
+> ⚠️ Replace `drosuseg` below with your **actual GitHub username** for these to render.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drosuseg&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drosuseg&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=drosuseg&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drosuseg&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
