@@ -72,8 +72,8 @@
 > ⚠️ Replace `drosuseg` below with your **actual GitHub username** for these to render.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drosuseg&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drosuseg&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=drosuseg&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=drosuseg&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
