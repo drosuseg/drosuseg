@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Cebu,_Philippines-ec4899?style=for-the-badge&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🎓_Dean's_Lister-a855f7?style=for-the-badge&labelColor=1a1a2e" />
   <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/✉️_donrose0088@gmail.com-6366f1?style=for-the-badge&labelColor=1a1a2e" /></a>
 </p>
 
@@ -77,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drosuseg&theme=radical&hide_border=true&background=1a1a2e&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=drosuseg&theme=radical&hide_border=true&background=1a1a2e&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" />
 </p>
 
 <p align="center">
