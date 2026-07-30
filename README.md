@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Donita%20Rose%20Seguerra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Donita%20Rose%20Seguerra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=1200&color=D946EF&center=true&vCenter=true&width=650&lines=React.js+%C2%B7+Python+%C2%B7+C%23+%C2%B7+MySQL;Building+scalable+full-stack+systems;BS+Computer+Science+%40+University+of+Cebu" alt="Typing SVG" />
