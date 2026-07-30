@@ -1,119 +1,112 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff9c&height=3&section=header"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3E+donita_seguerra;class+SoftwareEngineer%3A+pass;print(%22building+full-stack+systems%22);sudo+hire+--role%3D%22Software+Engineer%22" alt="Typing SVG" />
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Donita%20Rose%20Seguerra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/root@cebu-000000?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=000000" />
-  <img src="https://img.shields.io/badge/status-open__to__work-00FF9C?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/uptime-BS_CS_2022--2026-00FF9C?style=for-the-badge&labelColor=000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2800&pause=1200&color=D946EF&center=true&vCenter=true&width=650&lines=React.js+%C2%B7+Python+%C2%B7+C%23+%C2%B7+MySQL;Building+scalable+full-stack+systems;BS+Computer+Science+%40+University+of+Cebu" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/-donrose0088@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
+  <img src="https://img.shields.io/badge/📍_Cebu,_Philippines-ec4899?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🎓_Dean's_Lister-a855f7?style=for-the-badge&labelColor=1a1a2e" />
+  <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/✉️_donrose0088@gmail.com-6366f1?style=for-the-badge&labelColor=1a1a2e" /></a>
 </p>
 
-```bash
-$ cat about_me.txt
-> BS Computer Science @ University of Cebu (Dean's Lister 2022–2024)
-> 2+ years shipping full-stack projects | React.js · Python · C# · MySQL
-> Ex-Intern @ Filipino Homes — UI/UX + system architecture for Rentsouq.ae
-> Currently compiling: opportunities.exe
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
----
+### ✨ about me
 
-### 🚀 About Me
+<table align="center">
+<tr><td>
 
-- 🎓 BS in Computer Science, University of Cebu (2022 – 2026), **Dean's Lister 2022–2024**
-- 💻 2+ years building academic and personal full-stack projects; recent Software Design & Development Intern experience
-- 🏗️ Experienced in **React.js, Python, MySQL, ASP.NET Core, and C#**
-- 🎨 Comfortable across the stack — from Figma wireframes and system architecture to frontend UI and backend APIs
-- 🌱 Passionate about building scalable software and growing as a Software Engineer
-- 🗣️ English & Filipino (Tagalog)
+🌸 BS in Computer Science, University of Cebu (2022 – 2026) — **Dean's Lister 2022–2024**
+💜 2+ years crafting full-stack academic & personal projects
+🚀 Skilled across **React.js, Python, MySQL, ASP.NET Core, C#**
+🎨 Comfortable end-to-end — Figma wireframes → system architecture → frontend → backend
+🗣️ English & Filipino (Tagalog)
 
----
+</td></tr>
+</table>
 
-### `> ls tech_stack/`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+### 💫 tech stack
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Java-ec4899?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Python-a855f7?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/C%23-6366f1?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/JavaScript-ec4899?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/SQL-a855f7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/HTML/CSS-6366f1?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 **Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/React-ec4899?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Next.js-a855f7?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-6366f1?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Django-ec4899?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Tailwind-a855f7?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 **Databases**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/MySQL-ec4899?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-a855f7?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-6366f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MongoDB-ec4899?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 **Tools & Practices**
 <p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Agile%2FScrum-000000?style=for-the-badge&logo=jira&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Git-a855f7?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Figma-ec4899?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Agile/Scrum-a855f7?style=for-the-badge&logo=jira&logoColor=white&labelColor=1a1a2e" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-### `> ./run stats.sh`
+### 📊 stats
 
-> ⚠️ Replace `donita-seguerra` in the image URLs below with your **actual GitHub username** for these to render.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donita-seguerra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donita-seguerra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" alt="Top Languages" height="165"/>
-</p>
+> ⚠️ Replace `donita-seguerra` below with your **actual GitHub username** for these to render.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donita-seguerra&theme=dark&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=donita-seguerra&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donita-seguerra&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donita-seguerra&theme=github-compact&bg_color=0d1117&color=00FF9C&line=00FF9C&point=c9d1d9&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donita-seguerra&theme=radical&hide_border=true&background=1a1a2e&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donita-seguerra&theme=react-dark&bg_color=1a1a2e&color=ec4899&line=a855f7&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</p>
 
-### `> tail -f experience.log`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-```yaml
-role:     Software Design & Development Intern
-company:  Leuterio Realty & Brokerage (Filipino Homes)
-duration: Aug 2025 -- Oct 2025
-location: Cebu, Philippines
----
-[INFO]  Served as UI/UX designer + system architect for Rentsouq.ae
-        (full-scale JS real estate platform | React.js, MongoDB, REST | Dubai market)
-[INFO]  Designed wireframes & interactive prototypes in Figma
-        -> defined info architecture that guided dev team implementation
-[INFO]  Contributed to frontend dev: implemented UI components + REST integration
-[INFO]  Led usability testing cycles -> improved navigation clarity + task completion
-[DONE]  process exited 0
-```
+### 💼 experience
 
----
+<table align="center">
+<tr>
+<td width="100%">
 
-### `> ./deploy --list projects`
+**Software Design & Development Intern** · *Leuterio Realty & Brokerage (Filipino Homes)*
+`Aug 2025 – Oct 2025` · Cebu, Philippines
+
+- UI/UX designer and system architect for **Rentsouq.ae**, a full-scale JavaScript real estate platform (React.js, MongoDB, RESTful APIs) for the Dubai market
+- Designed wireframes and interactive prototypes in Figma, defining information architecture that guided the dev team's implementation
+- Contributed to frontend development, implementing UI components and integrating RESTful APIs
+- Led structured usability testing cycles that improved navigation clarity and task completion
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+### 🌈 featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -125,29 +118,23 @@ location: Cebu, Philippines
 
 > Also shipped: Clinic & Veterinary Clinic Management, Registration/Rental/Intramurals Management systems — plus manual QA across 3 platforms, catching 50+ issues pre-deployment.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-### `> cat certifications.json`
+### 🏅 certifications
 
-```json
-{
-  "certifications": [
-    "TESDA National Certificate — Java Programming",
-    "TOPCIT Level 2 Passer (ICT Competency Assessment)"
-  ]
-}
-```
-
----
-
-### `> ping donita --connect`
-
-<p align="left">
-  <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/-donrose0088@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/TESDA_National_Certificate-Java_Programming-ec4899?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/TOPCIT-Level_2_Passer-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
-<p align="center"><i>📍 Cebu, Philippines &nbsp;|&nbsp; +63 905 667 7098</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,100:0d1117&height=3&section=footer"/>
+### 💌 connect
+
+<p align="center">
+  <a href="mailto:donrose0088@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
