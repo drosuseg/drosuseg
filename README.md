@@ -69,19 +69,19 @@
 
 ### 📊 stats
 
-> ⚠️ Replace `donita-seguerra` below with your **actual GitHub username** for these to render.
+> ⚠️ Replace `drosuseg` below with your **actual GitHub username** for these to render.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donita-seguerra&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donita-seguerra&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=drosuseg&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drosuseg&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donita-seguerra&theme=radical&hide_border=true&background=1a1a2e&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drosuseg&theme=radical&hide_border=true&background=1a1a2e&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donita-seguerra&theme=react-dark&bg_color=1a1a2e&color=ec4899&line=a855f7&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drosuseg&theme=react-dark&bg_color=1a1a2e&color=ec4899&line=a855f7&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
@@ -125,6 +125,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TESDA_National_Certificate-Java_Programming-ec4899?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/TOPCIT-Level_2_Passer-a855f7?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏆_CCS_Days-UI/UX_3rd_Placer-6366f1?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🥇_CCS_Days-Winner-ec4899?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
