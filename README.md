@@ -1,7 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DONITA%20ROSE%20SEGUERRA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%9A%94%EF%B8%8F%20Software%20Engineer%20Class%20%E2%80%94%20Level%2022%20%E2%9A%94%EF%B8%8F&descAlignY=50&descSize=18"/>
+<p align="center">
+  <img width="900" src="./assets/pixel-header.svg" alt="Donita Rose Seguerra — Software Engineer, Lv. 22"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3200&pause=1200&color=D946EF&center=true&vCenter=true&width=750&lines=%3E+LOADING+PLAYER+PROFILE...;CLASS%3A+FULL-STACK+ENGINEER;MAIN+QUEST%3A+BS+COMPUTER+SCIENCE;STATUS%3A+READY+FOR+CO-OP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=1200&color=D946EF&center=true&vCenter=true&width=750&lines=%3E+LOADING+PLAYER+PROFILE...;CLASS%3A+FULL-STACK+ENGINEER;MAIN+QUEST%3A+BS+COMPUTER+SCIENCE;STATUS%3A+READY+FOR+CO-OP" alt="Typing SVG" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
@@ -136,6 +138,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
+<p align="center"><img src="./assets/divider-scroll.svg" width="600"/></p>
+
 <!-- ============ QUEST LOG ============ -->
 ### 📜 quest log — completed missions
 
@@ -157,6 +161,8 @@
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+
+<p align="center"><img src="./assets/divider-chest.svg" width="600"/></p>
 
 <!-- ============ INVENTORY ============ -->
 ### 🎒 inventory — loot & artifacts
