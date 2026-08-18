@@ -73,12 +73,11 @@
 > 📌 *Note: these stats reflect **public repositories only**. Hidden side-quests (private repos) aren't shown on this map.*
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=drosuseg&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=drosuseg&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=drosuseg&background=1a1a2e&color=ec4899&pixelate_avatar=false&hide=avatar" alt="GitHub Stats — Pixel"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drosuseg&theme=react-dark&bg_color=1a1a2e&color=ec4899&line=a855f7&point=ffffff&hide_border=true" alt="Contribution Graph — Quest Activity" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=drosuseg&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ec4899&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
