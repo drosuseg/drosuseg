@@ -78,10 +78,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=drosuseg&theme=radical&hide_border=true&background=1a1a2e&stroke=a855f7&ring=ec4899&fire=ec4899&currStreakLabel=ec4899" alt="GitHub Streak — Daily Grind" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=drosuseg&theme=react-dark&bg_color=1a1a2e&color=ec4899&line=a855f7&point=ffffff&hide_border=true" alt="Contribution Graph — Quest Activity" />
 </p>
 
